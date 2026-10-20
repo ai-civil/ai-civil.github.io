@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai-civil.github.io/sitemap.xml
